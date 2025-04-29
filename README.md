@@ -110,7 +110,7 @@ Enable reverse IP lookup? (y/n): y
 │ Total Domains Found (Initial) │ 143   │ shodan, censys │
 │ Additional Domains (Reverse)  │ 27    │ Reverse IP     │
 │ Total Verified Domains        │ 118   │ Output saved   │
-└──────────────────────────────────────────────────────┘
+└────────────────────────────────────────────────────────┘
 ```
 
 ## Output Files
