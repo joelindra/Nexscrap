@@ -76,7 +76,7 @@ Note: While API keys enhance functionality, NexScrap can still operate with limi
 ## Usage
 
 ```bash
-./nexscrap.py
+python3 nexscrap.py
 ```
 
 You'll be prompted to:
@@ -134,6 +134,10 @@ verified_domains_YYYYMMDD_HHMMSS.txt
 ## Disclaimer
 
 This tool is meant for security research and penetration testing with proper authorization. Users are responsible for complying with applicable laws and regulations. The creators assume no liability for misuse.
+
+## Contributions
+
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
